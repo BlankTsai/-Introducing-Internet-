@@ -9,4 +9,7 @@ https://github.com/BlankTsai/my_website
 ### Website link
 ### https://violetbk-to-do-list.vercel.app/
 Website code：
-https://github.com/BlankTsai/my-first-react
+https://github.com/BlankTsai/my-first-react 
+  
+Video link：
+https://youtu.be/bHE7Rp4R9MQ
