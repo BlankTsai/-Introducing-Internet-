@@ -18,7 +18,7 @@ Video link(reupload)：
 https://youtu.be/TKQLwk4yUrE
 
 code：https://github.com/BlankTsai/HW3QQQQ
-## push on render(HW4)
+## Render(HW4)
 ### Website link
 ### https://hw4rendertest.onrender.com/
 code：https://github.com/BlankTsai/HW3QQQQ
