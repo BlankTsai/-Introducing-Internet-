@@ -1,5 +1,5 @@
-# Self-introduction website.
-TAHRD 116
+# Introducing Internet.
+TAHRD 116 Course
 ## This is my website(HW1)
 ### Website link
 ### https://blanktsai.github.io/my_website/
