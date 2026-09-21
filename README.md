@@ -1,4 +1,4 @@
-# Introducing Internet.
+# Introducing Internet
 TAHRD 116 Course
 ## This is my website(HW1)
 ### Website link
