@@ -1,5 +1,5 @@
-# Hello.BlankTsai in the house.
-I'm writing these words here to make my GitHub look more professional, while also adding some content richness and space.
+# Self-introduction website.
+TAHRD 116
 ## This is my website(HW1)
 ### Website link
 ### https://blanktsai.github.io/my_website/
